@@ -43,6 +43,8 @@ Este es un proyecto web sencillo que presenta el perfil de Ana García. Incluye 
 
 - Para abrir la aplicación, debes presionar el siguiente enlace: https://danielraiichu.github.io/portafolio/
 
+- O bien, también podemos abrir la aplicación a través de este enlace: https://portafolio-gray-two.vercel.app/
+
 
 👩‍💻 Autor
 
