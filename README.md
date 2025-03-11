@@ -3,13 +3,13 @@
 Este es un proyecto web sencillo que presenta el perfil de Ana García. Incluye una breve descripción en la página principal y una sección "Sobre mí" con información adicional. El diseño es responsivo y cambia su estructura en pantallas menores a 1350px.
 
 
-🛠️ Tecnologías Utilizadas
+🛠️ Herramientas Utilizadas
 
 - HTML
 
 - CSS
 
-- Google Fonts
+- Flex-box
 
 
 ✨ Características
