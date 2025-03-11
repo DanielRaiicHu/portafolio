@@ -36,7 +36,12 @@ Este es un proyecto web sencillo que presenta el perfil de Ana García. Incluye 
 
 - git clone https://github.com/DanielRaiicHu/portafolio.git
 
--  Abrir el archivo index.html en un navegador web.
+- Abrir el archivo index.html en un navegador web.
+
+
+🚀 Abrir la aplicación
+
+- Para abrir la aplicación, debes presionar el siguiente enlace: https://danielraiichu.github.io/portafolio/
 
 
 👩‍💻 Autor
