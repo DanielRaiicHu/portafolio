@@ -41,4 +41,4 @@ Este es un proyecto web sencillo que presenta el perfil de Ana García. Incluye 
 
 👩‍💻 Autor
 
-- Daniel Aranzáez
+- Daniel Aranzáez 
